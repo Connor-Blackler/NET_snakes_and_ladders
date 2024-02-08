@@ -1,0 +1,7 @@
+{
+	"title": "C# Snakes & Ladders",
+	"image": "https://www.thermmark.co.uk/wp-content/uploads/2017/01/TMG003-36SF-Snakes-Ladders-1-36-Full-Solid.png",
+	"description": "A C# application to play Snakes & Ladders using MAUI with Blazor front-end",
+	"language": ["C#", ".NET MAUI", "Blazor"],
+	"language_bg": ["#a279dd","#c500f1","#5c2d91"]
+}

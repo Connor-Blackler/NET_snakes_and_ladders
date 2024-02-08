@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SnakesAndLadders.styles.css",
+      "PackagePath": "staticwebassets\\SnakesAndLadders.styles.css"
+    },
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\git_repo\\NET_snakes_and_ladders\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.SnakesAndLadders.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.SnakesAndLadders.props",
+      "PackagePath": "build\\SnakesAndLadders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.SnakesAndLadders.props",
+      "PackagePath": "buildMultiTargeting\\SnakesAndLadders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.SnakesAndLadders.props",
+      "PackagePath": "buildTransitive\\SnakesAndLadders.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
